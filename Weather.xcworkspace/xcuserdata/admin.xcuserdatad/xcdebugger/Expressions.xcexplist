@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ViewController.setready():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "temp">
+            </PersistentString>
+            <PersistentString
+               value = "main">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
